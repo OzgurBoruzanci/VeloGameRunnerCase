@@ -6,4 +6,5 @@ public static class EventManager
 {
     public static Action RepositionGround;
     public static Action PlayGame;
+    public static Action EarnCoin;
 }

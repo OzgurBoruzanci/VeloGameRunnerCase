@@ -40,6 +40,7 @@ public class PlayerController : MonoBehaviour
             CheckHealth();
         }
     }
+    
     private void ObstacleCollisionHandler()
     {
         healt--;
